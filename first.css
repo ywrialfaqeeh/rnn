@@ -1,0 +1,56 @@
+h1 {
+    text-align: center;
+    color: #9c89b8;
+    text-decoration: solid;
+
+}
+
+img {
+    width: 350px;
+    height: 220px;
+    margin: 20px;
+    /border-radius: 5px;
+    border: 5px solid #b8bedd;
+
+
+
+}
+
+img:hover {
+    transform: scale(1.2);
+}
+
+
+body {
+    background-color: #f0e6ef;
+}
+
+p {
+    text-align: center;
+}
+
+#l1 {
+    text-align: center;
+
+}
+
+#l2 {
+    text-align: center;
+
+}
+
+#l3 {
+    text-align: center;
+}
+
+#l4 {
+    text-align: center;
+}
+
+#l5 {
+    text-align: center;
+}
+
+#l6 {
+    text-align: center;
+}
